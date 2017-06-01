@@ -1,0 +1,20 @@
+
+
+
+PERMISOS Validar bien esa paja
+
+los view de anulada no volver anular
+
+quitar de los admin de perfiles las acciones y hacerla a pata para validar por rol ?
+
+//validar que los perfiles del listboxt este en estatus 1 ^_^
+
+quizas hacer la tablita de sistegra ?? da.. en vez de ese coñazo de checkbox
+
+//Error del login cuando no te ingresas
+
+//validaciones de mayor o menor en el modelo ;D (me cago en el yo pasado X_x)
+
+los campos automaticos (Calculados) casi
+
+la validacion.. apesta.. con el modelo asi que x jquery >_< cuando es mayor o menor
